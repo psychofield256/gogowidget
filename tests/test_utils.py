@@ -1,0 +1,2 @@
+class TestPath:
+    pass
